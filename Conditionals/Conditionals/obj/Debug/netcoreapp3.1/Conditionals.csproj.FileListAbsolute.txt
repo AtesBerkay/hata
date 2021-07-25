@@ -1,0 +1,13 @@
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.AssemblyReference.cache
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\Berkay\source\repos\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache
